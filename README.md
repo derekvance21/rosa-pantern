@@ -1,2 +1,2 @@
 # rosa-pantern
-Hejsan! Jag ar Derek. Jag kommer fran Kalifornien. Vad vill du dricka?
+Hejsan! Jag ar Derek. Jag kommer fran Kalifornien. Vad heter du?
